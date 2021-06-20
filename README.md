@@ -1,6 +1,6 @@
 # My bio
 ## About
-Nothing more to say yet :)
+Nothing to say yet :)
 
 ## Languages
 - Russian (native)
@@ -12,12 +12,16 @@ Nothing more to say yet :)
 - PHP (v5+)
 - JS (ES5+)
 
-## Also worked with
+## Also experience in
 - Java (v8+)
 - C# (v4+, incl. .NET Core)
 
-## Framework I work with
+## Frameworks I work with
 - Laravel (v7+)
 - NUXT JS (Vue.js v2)
 - Django v3
 - Django REST
+
+# Contact me
+- [Telegram](https://t.me/shadxst)
+- [VK](https://vk.com/shadxst)
